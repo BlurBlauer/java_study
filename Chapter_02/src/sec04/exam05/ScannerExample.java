@@ -14,8 +14,7 @@ public class ScannerExample {
 			if(inputData.equals("q")) {
 				break;
 			}
-		}
-		
+		}		
 		System.out.println("종료");
 	}
 
