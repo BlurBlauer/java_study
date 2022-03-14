@@ -29,7 +29,6 @@ public class StringEqualsExample {
 			System.out.println("strVar3과 strVar4는 참조가 같음.");
 		}
 		
-		
 		if(strVar3.equals(strVar4)) {
 			System.out.println("strVar3과 strVar4는 문자열이 같음.");
 		}
