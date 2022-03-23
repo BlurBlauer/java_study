@@ -13,7 +13,6 @@ public class CarExample {
 		
 		myCar.speed = 60;
 		System.out.println("수정된 속도: " + myCar.speed);
-		
 	}
 
 }
