@@ -16,7 +16,6 @@ public class ArrayCreateByValueListExample1 {
 		System.out.println("총합: "  + sum);
 		double avg = (double) sum/3;
 		System.out.println("평균: " + avg);
-
 	}
 
 }
