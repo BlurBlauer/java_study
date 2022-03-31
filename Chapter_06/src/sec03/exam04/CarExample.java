@@ -18,6 +18,7 @@ public class CarExample {
 		System.out.println("car3.model: " + car3.model);
 		System.out.println("car3.color: " + car3.color);
 		System.out.println();
+		
 	
 		
 		Car car4 = new Car("택시", "검정", 200);
