@@ -16,6 +16,7 @@ public class ArrayCreateByNewExample {
 		}
 
 		
+		
 		double[] arr2 = new double[3];
 		for(int i=0; i<3; i++) {
 			System.out.println("arr2[" + i +"]: " + arr2[i]);
