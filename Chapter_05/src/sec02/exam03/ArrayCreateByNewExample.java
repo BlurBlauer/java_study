@@ -20,6 +20,7 @@ public class ArrayCreateByNewExample {
 		for(int i=0; i<3; i++) {
 			System.out.println("arr2[" + i +"]: " + arr2[i]);
 		}
+		
 		arr2[0] = 0.1;
 		arr2[1] = 0.2;
 		arr2[2] = 0.3;
