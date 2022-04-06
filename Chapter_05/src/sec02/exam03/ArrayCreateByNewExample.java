@@ -27,7 +27,6 @@ public class ArrayCreateByNewExample {
 			System.out.println("arr2[" + "]: " + arr2[i]);
 		}
 		
-		
 		String[] arr3 = new String[3];
 		for(int i= 0; i<3; i++) {
 			System.out.println("arr3[" + i + "]: " + arr3[i]);
